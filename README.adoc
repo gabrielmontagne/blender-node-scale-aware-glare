@@ -1,0 +1,1 @@
+= Glare that can be tweaked so that results are same at different resolution percentages
