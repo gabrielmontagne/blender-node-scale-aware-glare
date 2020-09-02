@@ -2,8 +2,11 @@
 
 To use, copy resolution and scale as driver and use it to control the nodes inputs.
 
+.Driver configuration
 image::2020-09-02-043840_611x475_scrot.png[driving from scene]
 
+.100% resolution
 image::slot-1.png[100% resolution]
 
+.50% resolution
 image::slot-2.png[50% resolution]
