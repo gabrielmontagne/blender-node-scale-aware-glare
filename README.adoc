@@ -1,6 +1,7 @@
 = Glare that can be tweaked so that results are same at different resolution percentages
 
-To use, copy resolution and scale as driver and use it to control the nodes inputs.
+To use, append, copy resolution and scale as driver and use it to control the nodes inputs.
+Unfortunately the glare parameters can't be exported to the node group inputs, so you'll have jump into the group to edit them.
 
 .Driver configuration
 image::2020-09-02-043840_611x475_scrot.png[driving from scene]
